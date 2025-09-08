@@ -1,5 +1,5 @@
 # Music Language / Music Recommendation Backend
--Realizado por: Marco Duarte, Elkin Benitez, Alejandro Caro, Johan Garcia.
+-Realizado por: Marco Duarte(Backend), Elkin Benitez(DB), Alejandro Caro(DB-planeacion), Johan Garcia(Fronted).
 
 ---
 
