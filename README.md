@@ -1,6 +1,8 @@
 # Music Language / Music Recommendation Backend
--**Realizado por: Marco Duarte, Elkin Benitez, Alejandro Caro, Johan Garcia.
--**Planeacion: https://alejandrocaro90-1740509580575.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiNTAzMmEwYWExOGZmNGFkNDlkMjA1YzU5OWQyNzljZjciLCJwIjoiaiJ9
+-Realizado por: Marco Duarte, Elkin Benitez, Alejandro Caro, Johan Garcia.
+
+
+-Planeacion: https://alejandrocaro90-1740509580575.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiNTAzMmEwYWExOGZmNGFkNDlkMjA1YzU5OWQyNzljZjciLCJwIjoiaiJ9
 ---
 
 # Resumen del Proyecto
